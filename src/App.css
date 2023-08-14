@@ -1,0 +1,21 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Open Sans", "sans-serief";
+}
+
+*{
+  text-decoration: none;
+}
+body{
+  background-color: #0f171e;
+}
+.container{
+  margin: 0px 40px;
+}
+.app{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
